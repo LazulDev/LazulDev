@@ -24,7 +24,7 @@ A bunch of things, isn't it? 🤟
 
 I consider myself a passionate person about my work, confident and detail oriented. I am also curious, greatly imaginative and with a personal point of wiew that I trive to explore and share.
 
-Fun fact: I practice touch typing almost everyday, my personal best is [71 wpm](https://img.10fastfingers.com/speedtests/generate_screenshot_result/5_71_354_354_0_70_0_20) ✨
+Fun fact: I practice touch typing almost everyday, my personal best is [73 wpm](https://img.10fastfingers.com/speedtests/generate_screenshot_result/5_73_373_366_7_72_1_20) ✨
 
 ## How to reach me 🍻
 
