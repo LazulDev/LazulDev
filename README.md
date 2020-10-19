@@ -15,16 +15,23 @@
 
 ## Working on 🌸
 
-- I'm currently reviewing the basis of frontend development [here](https://openwebinars.net/academia/carrera/frontend-developer/), [Angular](https://www.udemy.com/course/angular-avanzado-fernando-herrera) advanced concepts, learning [TypeScript 4.0](https://www.makigas.es/series/typescript) in depth...
-- I'm also learning the backend ME(*fill in the gap*)N foundations - [**M**ongoDB](https://university.mongodb.com), [**E**xpress, **N**ode.js](https://www.udemy.com/course/node-de-cero-a-experto).
+I'm currently reviewing **JavaScript advanced concepts** to be able to understand how it works id depth [here](https://openwebinars.net/cursos/javascript/) and [here](https://www.udemy.com/course/advanced-javascript-concepts)
+I'm also reviewing the never-ending Fernando Herrara's [**Advanced Angular course**](https://www.udemy.com/course/angular-avanzado-fernando-herrera) (some day I will finish it LOL)
+Another topics that I have in the "leaning queue" are 
+- [MongoDB](https://university.mongodb.com) theoretical taining 
+- Research about Node.JS architecture topics such as Onion, Hexagonal, or Clean Architecture itself (maybe transition to deno?)
 
-A bunch of things, isn't it? 🤟
+## Some Fun & Geek Reading 📑
+
+- Robert C. Martin's [Clean Code](https://www.amazon.es/dp/8441532109/ref=cm_sw_em_r_mt_dp_ATzJFb68Q66NB)
+- **FREE** [Elementos Esenciales para Programación: Algoritmos y Estructuras de Datos (Algorithms & Data Structures)](http://www.ingebook.com/ib/NPcd/IB_BooksVis?cod_primaria=1000187&codigo_libro=8387)
+
 
 ## About me 🍵
 
 I consider myself a passionate person about my work, confident and detail oriented. I am also curious, greatly imaginative and with a personal point of wiew that I trive to explore and share.
 
-Fun fact: I practice touch typing almost everyday, my personal best is [76 wpm](https://img.10fastfingers.com/speedtests/generate_screenshot_result/5_76_388_378_10_70_2_15) ✨
+Fun fact: I practice touch typing almost everyday, my personal best is [81 wpm](https://img.10fastfingers.com/speedtests/generate_screenshot_result/5_81_411_403_8_75_2_15) ✨
 
 ## How to reach me 🍻
 
