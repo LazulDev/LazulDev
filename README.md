@@ -1,6 +1,6 @@
-# Hi there, I'm María aka lazul 🖐
+# Hi there, I'm María (she/her) 🖐
 
-> a telecommunication engineer involved in web development for almost 3 years now :sparkles:
+> a telecommunication engineer involved in web development for 5 years now :sparkles:
 
 ## Technologies 💎
 
@@ -13,25 +13,23 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-%234e89ae?logo=node.js&logoColor=whitesmoke)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23ffa372?logo=bootstrap&logoColor=%23290001)
 
-## Working on 🌸
+## Tech related interests 🌸
 
-I'm currently reviewing **JavaScript advanced concepts** to be able to understand how it works id depth [here](https://openwebinars.net/cursos/javascript/) and [here](https://www.udemy.com/course/advanced-javascript-concepts)
-I'm also reviewing the never-ending Fernando Herrara's [**Advanced Angular course**](https://www.udemy.com/course/angular-avanzado-fernando-herrera) (some day I will finish it LOL)
-Another topics that I have in the "leaning queue" are 
-- [MongoDB](https://university.mongodb.com) theoretical taining 
-- Research about Node.JS architecture topics such as Onion, Hexagonal, or Clean Architecture itself (maybe transition to deno?)
+Software Engineering, Best Practices, undestanding why things are done -in depth concepts.
+Testing, functional and reactive programming.
+Software architecture.
+JavaScript 💛 TypeScript 💙 Angular ❤️
 
-## Some Fun & Geek Reading 📑
+## Working on 📑
 
-- Robert C. Martin's [Clean Code](https://www.amazon.es/dp/8441532109/ref=cm_sw_em_r_mt_dp_ATzJFb68Q66NB)
-- **FREE** [Elementos Esenciales para Programación: Algoritmos y Estructuras de Datos (Algorithms & Data Structures)](http://www.ingebook.com/ib/NPcd/IB_BooksVis?cod_primaria=1000187&codigo_libro=8387)
+Check my [twitter account](https://twitter.com/LazulDev) 🤓 
 
 
 ## About me 🍵
 
-I consider myself a passionate person about my work, confident and detail oriented. I am also curious, greatly imaginative and with a personal point of wiew that I trive to explore and share.
+I consider myself a passionate person about my work, confident and detail oriented. I am also curious, greatly imaginative and above all, I am a cheerful, energetic and helpful person.
 
-Fun fact: I practice touch typing almost everyday, my personal best is [81 wpm](https://img.10fastfingers.com/speedtests/generate_screenshot_result/5_81_411_403_8_75_2_15) ✨
+Fun fact: I practice touch typing from time to time, my personal best is [89 wpm](https://10fastfingers.com/share-badge/5_CL) ✨
 
 ## How to reach me 🍻
 
