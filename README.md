@@ -1,6 +1,8 @@
-# Hi there, I'm María (she/her) 🖐
+# Hi there, I'm Meri (she/her) 🖐
 
-> a telecommunication engineer involved in web development for 5 years now :sparkles:
+> Welcome to my GitHub profile. I'm María aka Meri (she/her), a passionate developer always looking to learn and create new things. Feel free to explore my repositories and check out my latest projects!
+
+Let's connect! 😊
 
 ## Technologies 💎
 
