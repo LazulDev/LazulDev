@@ -37,4 +37,4 @@ Fun fact: I practice touch typing from time to time, my personal best is [89 wpm
 
 <a href="https://www.linkedin.com/in/mariasanchezcarvajal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%234e89ae?logo=linkedin&logoColor=whitesmoke"></a>
 
-<a href="mailto:msanchez.telecom@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23c26565?logo=gmail&logoColor=white"></a>
+<a href="mailto:lazul@duck.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23c26565?logo=gmail&logoColor=white"></a>
